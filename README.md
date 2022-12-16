@@ -1,4 +1,4 @@
-# Nike's Website
+# Nike
 A Landing page design for the Nike shoes.
 #
 Showcase
